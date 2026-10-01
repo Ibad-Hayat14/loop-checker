@@ -1,6 +1,6 @@
 ---
 mode: subagent
-model: google/gemini-3.7-flash
+model: opencode/nemotron-3.5-lightning-free
 description: Reviews a diff against the tests. Replies PASS or FAIL with reasons. Read-only.
 permission:
   edit: deny
